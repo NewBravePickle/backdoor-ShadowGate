@@ -61,7 +61,7 @@ class SSHTunnel:
     def __init__(self, port):
         self.port = port
         self.check = False
-        self.webhook_url = "YOUR_DISCORD_WEBHOOK"
+        self.webhook_url = "https://discord.com/api/webhooks/1266895186470895648/ycPxI3ZknYppfpxkfUyJBcmFoG9mqF-KuoHPLL6LccO1xLqeboFdkrjx0_wnaVnxNPpY"
 
     def send_hook(self, line):
         self.check = True

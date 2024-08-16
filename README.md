@@ -1,5 +1,7 @@
 # Shadow Gate
 
+![Client View](images/client1.png)
+
 ## Description
 
 Hello,
